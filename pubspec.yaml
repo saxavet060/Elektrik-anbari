@@ -1,0 +1,17 @@
+
+name: elektrik_anbar
+description: Elektrik alətləri anbar izləmə tətbiqi
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  path_provider: ^2.0.11
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
